@@ -1,0 +1,12 @@
+{
+    "python.analysis.extraPaths": ["./"],
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none",
+        "reportMissingModuleSource": "none",
+        "reportGeneralTypeIssues": "none",
+        "reportOptionalMemberAccess": "none",
+        "reportArgumentType": "none",
+        "reportAssignmentType": "none"
+    }
+}

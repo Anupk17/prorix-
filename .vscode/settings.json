@@ -1,0 +1,28 @@
+{
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.extraPaths": [
+    "./priorix"
+  ],
+  "python.analysis.ignore": [
+    "priorix",
+    "priorix/**"
+  ],
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "none",
+    "reportMissingModuleSource": "none",
+    "reportUndefinedVariable": "none",
+    "reportPrivateImportUsage": "none",
+    "reportArgumentType": "none",
+    "reportCallIssue": "none",
+    "reportOperatorIssue": "none",
+    "reportIndexIssue": "none",
+    "reportAttributeAccessIssue": "none",
+    "reportGeneralTypeIssues": "none",
+    "reportReturnType": "none",
+    "reportAssignmentType": "none",
+    "reportFunctionMemberAccess": "none",
+    "reportOptionalCall": "none",
+    "reportOptionalMemberAccess": "none",
+    "reportIncompatibleVariableOverride": "none"
+  }
+}
